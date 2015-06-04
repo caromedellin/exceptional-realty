@@ -208,6 +208,9 @@ background: linear-gradient(to bottom,  rgba(174,188,191,1) 0%,rgba(10,14,10,1) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
 
 }
+#navbar nav a.menu-icon{
+  display: none;
+}
 
 /*////////// LOGO //////////*/
 
